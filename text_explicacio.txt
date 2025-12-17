@@ -1,0 +1,19 @@
+El projecte s'ha executat en un ordinador local amb Python 3.
+S'ha utilitzat un entorn virtual venv.
+Amb sistema operatiu Windows.
+
+L'execució s'ha fet des de terminal utilitzant scripts Python.
+
+Guardar els models permet reutilitzar-los sense haver de reentrenar.
+La llibreria pickle permet serialitzar objectes Python i guardar-los a disc.
+
+L'associació entre tipus de ciclistes i clusters s'ha fet observant quin
+tipus apareix amb més freqüència dins de cada cluster (moda).
+
+Els fitxers d'informes contenen estadístiques descriptives dels ciclistes
+per cada tipus (mitjana, desviació, mínims i màxims).
+Permeten analitzar el comportament de cada grup.
+
+Els tests unitaris permeten validar que el codi funciona correctament
+i detectar errors de forma automàtica quan es fan canvis.
+
